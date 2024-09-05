@@ -6,8 +6,8 @@
   You came for the code but stayed for the terrible attempts at humor. Feel free to reach out for any projects or questions. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me. 
 </em></p>
 
-[![GitHub Greg](https://img.shields.io/github/followers/gregyjames?label=follow&style=social)](https://github.com/gregyjames)
-[![Twitter Greg](https://img.shields.io/twitter/follow/babulkhan992o?label=Follow)](https://twitter.com/babulkhan992o)
+[![GitHub Babul](https://img.shields.io/github/followers/devbabul?label=follow&style=social)](https://github.com/devbabul)
+[![Twitter Babul](https://img.shields.io/twitter/follow/babulkhan992o?label=Follow)](https://twitter.com/babulkhan992o)
 
 
 <p align="center">
