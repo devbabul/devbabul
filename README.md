@@ -1,6 +1,6 @@
 [![wakatime](https://wakatime.com/badge/user/18a55e97-f175-44d4-b269-5e148339a0d8.svg)](https://wakatime.com/@18a55e97-f175-44d4-b269-5e148339a0d8)
-<img src="https://komarev.com/ghpvc/?username=gregyjames&label=Profile%20views&color=0e75b6&style=flat" alt="gregyjames" />
-<img src="https://github.com/gregyjames/gregyjames/blob/master/images/github_banner.png">
+<img src="https://komarev.com/ghpvc/?username=devbabul&label=Profile%20views&color=0e75b6&style=flat" alt="devbabul" />
+<img src="https://github.com/devbabul/devbabul/blob/master/images/github_banner.png">
 <h2>Hi, I'm Babul!</h2>
 <p>
   You came for the code but stayed for the terrible attempts at humor. Feel free to reach out for any projects or questions. Fun fact: I'll always take on new projects, even when 120+ unfinished repos are haunting me. 
