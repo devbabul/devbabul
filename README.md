@@ -8,7 +8,7 @@
 
 [![GitHub Greg]
 (https://img.shields.io/github/followers/devbabul?label=follow&style=social)](https://github.com/devbabul)
-[![Twitter Greg](https://img.shields.io/twitter/follow/devbabul?label=Follow)](https://twitter.com/devbabul)
+[![Twitter devbabul](https://img.shields.io/instagram/follow/devbabulkhan?label=Follow)](https://instagram.com/in/devbabulkhan)
 
 
 <p align="center">
@@ -25,5 +25,5 @@
 <a href="https://wa.me/923483295716" target="_blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/whatsapp.svg" alt="devbabul" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/babulkhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="babulkhan" height="30" width="40" /></a>
 <a href="https://facebook.com/devbabulkhan" target="_blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/facebook.svg" alt="devbabulkhan" height="30" width="40" /></a>
-<a href="https://www.github.com/devbabulkhan" target="_blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/instagram.svg" alt="devbabulkhan" height="30" width="40" /></a>
+<a href="https://instagram.com/devbabulkhan" target="_blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/instagram.svg" alt="devbabulkhan" height="30" width="40" /></a>
   </div>
